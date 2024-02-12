@@ -20,4 +20,4 @@ This project was created in collaboration with: RetrozDev, YohanSoundara, cchemi
 
 ## ACCESSING THE WEBSITE
 
-The deployed version of the game is available at:
+The deployed version of the game is available at: https://popflixcorn-p7fe.vercel.app/
